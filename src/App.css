@@ -5,6 +5,15 @@
   text-align: center;
 }
 
+.main {
+  text-align: left;
+}
+
+.footer {
+  text-align: left;
+  font-size: 1em;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
